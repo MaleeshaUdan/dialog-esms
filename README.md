@@ -13,6 +13,11 @@
   <br>
 - Then clone this repository to specific folder
    https://github.com/MaleeshaUdan/dialog-esms.git
+- Now adjust balance.php & sendsms.php according to your details
+   <img src="img/02.png">
+   <br>
+   <img src="img/03.png">
+  
     
   
   
