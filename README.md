@@ -6,6 +6,12 @@
 1. Send Messages
 2. Check Balance
 
+### Requirements:
+- PHP 5.6 or higher.
+- cURL must be enabled in your PHP installation.
+
+### Steps
+
 - First Get the URL Message Key Form the Dialog esms account
   <img src="img/esm.jpg">
   <br>
