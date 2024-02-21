@@ -7,6 +7,7 @@
 2. Check Balance
 
 ### Requirements:
+- Ensure you have a valid URL Message Key from Dialog.
 - PHP 5.6 or higher.
 - cURL must be enabled in your PHP installation.
 
