@@ -10,5 +10,8 @@
   <img src="img/esm.jpg">
   <br>
   <img src="img/01.png">
+  <br>
+- Then clone this repository to specific folder
+    
   
   
