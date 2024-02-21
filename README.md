@@ -12,7 +12,7 @@
   <img src="img/01.png">
   <br>
 - Then clone this repository to specific folder
-  ``` https://github.com/MaleeshaUdan/dialog-esms.git
+   https://github.com/MaleeshaUdan/dialog-esms.git
     
   
   
