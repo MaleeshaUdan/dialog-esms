@@ -5,3 +5,6 @@
 ##### Main Functions (GET requests)
 1. Send Messages
 2. Check Balance
+
+- First Get the URL Message Key Form the Dialog esms account
+  <img src="img/esm.jpg">
